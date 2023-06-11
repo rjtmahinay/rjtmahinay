@@ -3,7 +3,7 @@
 An individual contributor to the Java community!
 
 ### ℹ️ About
-* Developer, Java SME, Java Capability, Blue Core Mentor and Speaker at [IBM](https://www.ibm.com/ph-en)
+* Developer, Java SME, Java Capability Leader, Blue Core Mentor and Speaker at [IBM](https://www.ibm.com/ph-en)
 * Author and Contributor at [Foojay](https://foojay.io/)
 * Community/JUG Leader at [Java User Group Philippines](https://jugph.com/)
 
