@@ -1,10 +1,11 @@
 ### Hi 👋 all
 
-I'm a full-time Java Developer, Leader and SME.
+An individual contributor to the Java community!
 
 ### ℹ️ About
-* Developer, SME and Speaker for [IBM](https://www.ibm.com/ph-en)
-* Member and Contributor at [Foojay](https://foojay.io/)
+* Developer, Java SME, Java Capability, Blue Core Mentor and Speaker at [IBM](https://www.ibm.com/ph-en)
+* Author and Contributor at [Foojay](https://foojay.io/)
+* Community/JUG Leader at [Java User Group Philippines](https://jugph.com/)
 
 ### 🔗 Links
 * [Twitter](https://twitter.com/ph_tantan)
