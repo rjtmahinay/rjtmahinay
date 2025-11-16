@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Tristan Mahinay</h1>
 
 <p align="center">
-  <em>A technologist leading and contributing to the technical community</em>
+  <em>I usually do Advisory & Application Design, Tech Lead & Architecture, and Community Leadership. Open-Source Committer during weekends.</em>
 </p>
 
 ---
